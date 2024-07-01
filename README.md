@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **react js**
 
-- 👯 I’m looking to collaborate on **Software Development**
+- 👯 I’m looking to collaborate on **Software development**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,PYTHON**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT**
 
 - 📫 How to reach me **abdulmufeedcn1414@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ABDUL MUFEED CN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ABDUL MUFEED CN" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdul-mufeed-cn-15789920a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-mufeed-cn-15789920a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
